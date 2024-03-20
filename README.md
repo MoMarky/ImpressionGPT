@@ -6,6 +6,12 @@ Chong Ma, Zihao Wu, Jiaqi Wang, Shaochen Xu, Yaonai Wei, Zhengliang Liu, Xi Jian
 
 [ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT](https://arxiv.org/abs/2304.08448).
 
+# Update
+
+[2024.02.12] This work has been published in IEEE Transactions on Artificial Intelligence.
+
+[An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT](https://ieeexplore.ieee.org/abstract/document/10433180).
+
 
 <div align="center">
     <img src="/res/pipeline.png">
@@ -68,12 +74,13 @@ Change the path of "root, train_data, train_label_space, df_test_csv, test_label
 If you use this code, or otherwise found our work valuable, please cite:
 
 ###
-    @article{ma2023impressiongpt,
-    title={ImpressionGPT: an iterative optimizing framework for radiology report summarization with chatGPT},
-    author={Ma, Chong and Wu, Zihao and Wang, Jiaqi and Xu, Shaochen and Wei, Yaonai and Liu, Zhengliang and Guo, Lei and Cai, Xiaoyan and Zhang, Shu and Zhang, Tuo and others},
-    journal={arXiv preprint arXiv:2304.08448},
-    year={2023}
-      }
+    @article{ma2024iterative,
+      title={An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT},
+      author={Ma, Chong and Wu, Zihao and Wang, Jiaqi and Xu, Shaochen and Wei, Yaonai and Liu, Zhengliang and Zeng, Fang and Jiang, Xi and Guo, Lei and Cai, Xiaoyan and others},
+      journal={IEEE Transactions on Artificial Intelligence},
+      year={2024},
+      publisher={IEEE}
+    }
 
 
 
